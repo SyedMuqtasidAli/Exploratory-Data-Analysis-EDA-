@@ -25,7 +25,7 @@ To get started with the Google Play Store Apps EDA project, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/your-username/google-play-store-eda.git
+    git clone https://github.com/syed-muqtasid-ali/google-play-store-eda.git
     ```
 
 2. **Navigate to the project directory**:
